@@ -30,3 +30,7 @@
   --subtitle: italic 1.6rem / var(--font-family);
 }
 
+body {
+  background-color: var(--background-default);
+  font-size: 1.6rem;
+}
